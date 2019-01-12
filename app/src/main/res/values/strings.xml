@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="sensors_unavailable">Your phone do not have the necessary sensors to make the compass to work</string>
+</resources>
